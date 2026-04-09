@@ -1,5 +1,3 @@
-# dss-employee-risk-analysis
-AI-based Decision Support System for Employee Risk Classification
 # Employee Risk Classification using Decision Support System
 
 ## Project Overview
@@ -36,19 +34,12 @@ This project solves this problem by developing a system that classifies employee
 - Medium Risk: Monitor and training
 - Low Risk: Maintain performance
 
-## Project Structure
-dss-employee-risk-analysis/
- ├── data
- ├── notebooks
- ├── src
- ├── output
- ├── README.md
- └── requirements.txt
 
 ## How to Run
 1. Open notebook in Google Colab
-2. Run all cells
-3. View risk classification and recommendations
+2. https://colab.research.google.com/drive/14cMDYs6PnDt_ptyWkv8yPUucH5nHjmRI
+3. Run all cells
+4. View risk classification and recommendations
 
 ## Output
 The system generates:
